@@ -1,0 +1,10 @@
+2022-09-29 17:09:48.168110 - 
+2022-09-29 17:10:01.616631 - makemakeididid
+2022-09-29 17:11:17.987121 - Key.shiftKey.cmdKey.tabKey.shiftKey.cmd3Key.shiftKey.cmd3naKey.backspaceKey.backspaceKey.backspaceKey.backspacemacKey.backspaceKey.backspaceKey.backspaceKey.backspace
+2022-09-29 17:11:36.417184 - Key.backspaceKey.shift_rdbKey.backspaceKey.backspaceKey.caps_lockㅇㅍㅇKey.backspaceKey.backspaceKey.backspaceㅇㅠㅇㅜㅏKey.backspaceKey.backspaceㅇㅡㅣㅈㅓㅁKey.spaceKey.shift_r:Key.spaceKey.caps_lockKey.caps_lockterminalKey.caps_lockKey.space2roKey.spaceKey.shift_rKey.backspaceKey.backspaceKey.backspaceKey.caps_lockKey.caps_lockㄱㅐKey.spaceKey.shift_rㄸㅡㅣㅇㅜㅓㅅㅓKey.spaceㄷㅗㅇㅅㅣKey.spaceㅈㅣㄴㅎㅐㅇ
+2022-09-29 17:11:45.645318 - Key.shift_r>>>>>>>>>>>>>>>>>>>>>>>>.ㄱㅛㄹKey.backspaceKey.backspaceKey.backspaceKey.backspaceㄱㅑㄹKey.backspaceKey.backspaceKey.backspaceKey.spaceㄱㄹㄱKey.backspaceKey.backspaceKey.backspaceㄱㅕㄹㄱㅗㅏKey.spaceKey.shift_r>>>
+2022-09-29 17:11:51.065547 - /
+2022-09-29 17:12:45.298860 - /Key.shift_r>>>>>>>>>>>>>>>>>>>>>>>>Key.backspace/Key.caps_lock
+2022-09-29 17:12:47.990205 - Key.cmdzKey.shift
+2022-09-29 17:13:02.689683 - 1.Key.spaceKey.leftKey.leftKey.tabKey.leftKey.tabKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.backspaceKey.backspaceKey.shift_r>Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right
+2022-09-29 17:13:05.246424 - Key.shift_r>Key.backspaceKey.backspaceKey.backspaceKey.shift
